@@ -1,0 +1,117 @@
+http://arduino.cc/en/Guide/ArduinoLeonardoMicro?from=Guide.ArduinoLeonardo#.Uygjr6iSyvM
+
+
+http://arduino.cc/en/Reference/MouseKeyboard
+
+
+http://ctrlaltnarwhal.wordpress.com/2012/10/31/installing-usb-rubber-ducky-on-3rd-party-devices/
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://1474orchard.ca/projects/?entry=entry110123-142726
+
+
+
+
+
+
+take feedback from lappy by opening serial port frrom lappy or by some other way. Reprogram example may be helpful
+
+how things are copied from window to pendrive, so that passwords etc can be coopied to eeprom of leonardo.
+
+window + printscreen to save image and see as if this image can be sent to leonardo or a sd drive connected to leonardo
+
+
+
+
+
+
+
+disable the mouse from leonardo sofwarically or move it very rondomly and continuously, disable original keyboard, and in background do requiredwork by leonardo as keyboard.
+
+
+plug leonardo, and wirelessly give command to do perform acttion on target PC, when person is not looking at screen....or do prank at appropriate momment,even if person is looking at screen.
+
+
+go get a fog machine and hook it up to the Arduino and put it to a sensor for example microphone to detect noise or PIR motion sensor. once you get a reading wait 5 min and activate smoke machine. place behind computer. They think computer is blowing up.
+
+
+cotrolling air bag(whick is used in car) wirelessly...
+
+remap the usb keyboard by placing leonardo in between pc and orginal keyboard
+
+
+I could use a relay to randomly shut off his mouse or keyboard connection, but it would have to be solid state otherwise he would notice the clicking I think.
+
+capslock prank
+
+/*
+
+Another idea along those lines is an opposite ad-block extension for his browser. The idea is that it would replace pictures on webpages with fake ads that we would make.
+
+I know the Arduino Leonardo can send keystrokes but can it recieve them?  I was thinking about putting an arduino leonardo between his keyboard and the computer so it could essentially do text replacements.  like if he typed "you're" the arduino would detect it, hit the delete key 3 times then type an r.  So every time he types "you're" it's replaced with "your" which would be very annoying.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+transfering file or text secretly via lappy's usb port or changing memory content of lappy.
+how to open hidden secret terminal in window, so that when i type, it is typed in that invisible .terminal
+how to transfer terminal of window to usb/serial port like beaglebord?
+How to force pc to work as usb slave????????????????????????
+usingmicrosd card with lleonardo as usb storage drive:-
+http://www.instructables.com/id/Music-Playing-Alarm-Clock/step6/USB-Mass-Storage-with-MicroSD/
+http://elasticsheep.com/2010/04/teensy2-usb-mass-storage-with-an-sd-card/
+http://forum.arduino.cc/index.php?topic=108577.0%22
+
+
+
+
+
+
+
+
+
+<<flash-an-arduino-from-an-sd-card>>http://www.immersivesoundscape.com/Blog/Entries/2013/7/26_Singapore_Mini_Maker_Faire.html
+
+
+
+
+
+
+
+
+
+
+interfacing arduino with nokia phone:
+http://www.insidegadgets.com/2013/01/12/how-to-use-nokia-f-bus-to-send-an-sms-message/
+http://pinouts.ru/CellularPhones-Nokia/nokia_pop_pinout.shtml
+http://www.circuitsathome.com/mcu/programming/interfacing-arduino-to-a-cellular-phone
+http://1474orchard.ca/projects/?entry=entry110123-142726
+
+
